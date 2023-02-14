@@ -1,0 +1,3 @@
+use this video to lern and practice viewport height: https://www.youtube.com/watch?v=wkztoWlwTXU
+use this to learn useMemo: https://www.youtube.com/watch?v=qySZIzZvZOY
+Question: react-select : show only the matched options on typing on the select input
